@@ -1,10 +1,10 @@
 <?php 
 
 
-$db_name = "ezyro_35842795_zolfaghar";
-$mysql_username = "ezyro_35842795";
-$mysql_password = "fde2ea94dd122";
-$server_name = "sql113.ezyro.com";  
+$db_name = "--------";
+$mysql_username = "----------";
+$mysql_password = "---------";
+$server_name = "---------";  
 $ccoonn = mysqli_connect($server_name, $mysql_username, $mysql_password,$db_name);
 if (!$ccoonn)
   {
